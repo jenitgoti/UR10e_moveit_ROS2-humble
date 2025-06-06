@@ -5,8 +5,6 @@
 
 This project includes components from the [Universal Robots ROS2 Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver), which is licensed under the Apache License 2.0.
 
-### Attribution
-
 This project uses packages from [Universal Robots](https://github.com/UniversalRobots) under the BSD 3-Clause License.
 
 
