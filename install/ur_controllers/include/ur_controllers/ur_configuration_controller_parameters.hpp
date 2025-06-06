@@ -1,0 +1,1 @@
+/home/jenit/ur_ws/build/ur_controllers/include/ur_controllers/ur_configuration_controller_parameters.hpp

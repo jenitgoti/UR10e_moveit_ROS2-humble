@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "gtest",
+		"source" : "/home/jenit/ros2_humble/install/gtest_vendor/src/gtest_vendor"
+	}
+}

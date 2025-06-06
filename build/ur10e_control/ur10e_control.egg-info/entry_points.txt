@@ -1,0 +1,3 @@
+[console_scripts]
+ur10e_commander = ur10e_control.ur10e_commander:main
+

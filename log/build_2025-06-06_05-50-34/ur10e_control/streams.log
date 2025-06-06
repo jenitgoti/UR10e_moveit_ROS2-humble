@@ -1,0 +1,17 @@
+[1.671s] Invoking command in '/home/jenit/ur_ws/build/ur10e_control': PYTHONPATH=/home/jenit/ur_ws/build/ur10e_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jenit/ur_ws/install/ur10e_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jenit/ur_ws/build/ur10e_control/build --no-deps symlink_data
+[2.314s] running develop
+[2.503s] running egg_info
+[2.503s] writing ur10e_control.egg-info/PKG-INFO
+[2.503s] writing dependency_links to ur10e_control.egg-info/dependency_links.txt
+[2.503s] writing entry points to ur10e_control.egg-info/entry_points.txt
+[2.503s] writing requirements to ur10e_control.egg-info/requires.txt
+[2.503s] writing top-level names to ur10e_control.egg-info/top_level.txt
+[2.505s] reading manifest file 'ur10e_control.egg-info/SOURCES.txt'
+[2.505s] writing manifest file 'ur10e_control.egg-info/SOURCES.txt'
+[2.509s] running build_ext
+[2.509s] Creating /home/jenit/ur_ws/install/ur10e_control/lib/python3.10/site-packages/ur10e-control.egg-link (link to .)
+[2.510s] Installing ur10e_commander script to /home/jenit/ur_ws/install/ur10e_control/lib/ur10e_control
+[2.510s] 
+[2.510s] Installed /home/jenit/ur_ws/build/ur10e_control
+[2.510s] running symlink_data
+[2.535s] Invoked command in '/home/jenit/ur_ws/build/ur10e_control' returned '0': PYTHONPATH=/home/jenit/ur_ws/build/ur10e_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jenit/ur_ws/install/ur10e_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jenit/ur_ws/build/ur10e_control/build --no-deps symlink_data

@@ -1,0 +1,14 @@
+source;share/ur_client_library/hook/cmake_prefix_path.ps1
+source;share/ur_client_library/hook/cmake_prefix_path.dsv
+source;share/ur_client_library/hook/cmake_prefix_path.sh
+source;share/ur_client_library/hook/ld_library_path_lib.ps1
+source;share/ur_client_library/hook/ld_library_path_lib.dsv
+source;share/ur_client_library/hook/ld_library_path_lib.sh
+source;share/ur_client_library/hook/pkg_config_path.ps1
+source;share/ur_client_library/hook/pkg_config_path.dsv
+source;share/ur_client_library/hook/pkg_config_path.sh
+source;share/ur_client_library/hook/pkg_config_path_multiarch.ps1
+source;share/ur_client_library/hook/pkg_config_path_multiarch.dsv
+source;share/ur_client_library/hook/pkg_config_path_multiarch.sh
+source;share/ur_client_library/hook/ament_prefix_path.dsv
+source;share/ur_client_library/hook/ros_package_path.dsv

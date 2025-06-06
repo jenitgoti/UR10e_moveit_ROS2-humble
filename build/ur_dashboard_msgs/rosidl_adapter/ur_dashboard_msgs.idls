@@ -1,0 +1,14 @@
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:msg/ProgramState.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:msg/RobotMode.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:msg/SafetyMode.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:srv/AddToLog.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:srv/GetLoadedProgram.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:srv/GetProgramState.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:srv/GetRobotMode.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:srv/GetSafetyMode.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:srv/IsProgramRunning.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:srv/IsProgramSaved.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:srv/Load.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:srv/Popup.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:srv/RawRequest.idl
+/home/jenit/ur_ws/build/ur_dashboard_msgs/rosidl_adapter/ur_dashboard_msgs:action/SetMode.idl

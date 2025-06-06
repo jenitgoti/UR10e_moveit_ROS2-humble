@@ -1,0 +1,202 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-b42c7ea11aab0e4df115.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "examples",
+					"jsonFile" : "directory-examples-RelWithDebInfo-1c8b83b621b6ef38a245.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "examples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ur_client_library",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "ur_driver_examples",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "dashboard_example::@714eac15f71a94114fdf",
+					"jsonFile" : "target-dashboard_example-RelWithDebInfo-d539266193a3d33cda8d.json",
+					"name" : "dashboard_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "driver_example::@714eac15f71a94114fdf",
+					"jsonFile" : "target-driver_example-RelWithDebInfo-508160a146f0cb446f03.json",
+					"name" : "driver_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "force_mode_example::@714eac15f71a94114fdf",
+					"jsonFile" : "target-force_mode_example-RelWithDebInfo-195a8b1cbaca679347ea.json",
+					"name" : "force_mode_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "freedrive_example::@714eac15f71a94114fdf",
+					"jsonFile" : "target-freedrive_example-RelWithDebInfo-41f72bed72a39150029e.json",
+					"name" : "freedrive_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "instruction_executor::@714eac15f71a94114fdf",
+					"jsonFile" : "target-instruction_executor-RelWithDebInfo-4e021b1f902e257d0607.json",
+					"name" : "instruction_executor",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "primary_pipeline_calibration_example::@714eac15f71a94114fdf",
+					"jsonFile" : "target-primary_pipeline_calibration_example-RelWithDebInfo-edace800b45043f3efb8.json",
+					"name" : "primary_pipeline_calibration_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "primary_pipeline_example::@714eac15f71a94114fdf",
+					"jsonFile" : "target-primary_pipeline_example-RelWithDebInfo-bd5db14413fcc5716347.json",
+					"name" : "primary_pipeline_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "rtde_client_example::@714eac15f71a94114fdf",
+					"jsonFile" : "target-rtde_client_example-RelWithDebInfo-ae390cd7594119008ec4.json",
+					"name" : "rtde_client_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "script_sender_example::@714eac15f71a94114fdf",
+					"jsonFile" : "target-script_sender_example-RelWithDebInfo-d09eb86d28d052aaf0da.json",
+					"name" : "script_sender_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "spline_example::@714eac15f71a94114fdf",
+					"jsonFile" : "target-spline_example-RelWithDebInfo-788d57a3591eca54cd6a.json",
+					"name" : "spline_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tool_contact_example::@714eac15f71a94114fdf",
+					"jsonFile" : "target-tool_contact_example-RelWithDebInfo-8430acb2910a8ef0652e.json",
+					"name" : "tool_contact_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "trajectory_point_interface_example::@714eac15f71a94114fdf",
+					"jsonFile" : "target-trajectory_point_interface_example-RelWithDebInfo-069f4fef491462712933.json",
+					"name" : "trajectory_point_interface_example",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urcl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urcl-RelWithDebInfo-5361dc6900dcd625f37f.json",
+					"name" : "urcl",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jenit/ur_ws/build/ur_client_library",
+		"source" : "/home/jenit/ur_ws/src/Universal_Robots_Client_Library"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,1 @@
+/home/jenit/ur_ws/build/ur_moveit_config/ament_cmake_python/ur_moveit_config/ur_moveit_config.egg-info/top_level.txt

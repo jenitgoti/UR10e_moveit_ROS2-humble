@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -pedantic -O2 -g -DNDEBUG CMakeFiles/rtde_client_example.dir/rtde_client.cpp.o -o rtde_client_example  -Wl,-rpath,/home/jenit/ur_ws/build/ur_client_library ../liburcl.so 

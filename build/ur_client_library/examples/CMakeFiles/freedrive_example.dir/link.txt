@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -pedantic -O2 -g -DNDEBUG CMakeFiles/freedrive_example.dir/freedrive_example.cpp.o -o freedrive_example  -Wl,-rpath,/home/jenit/ur_ws/build/ur_client_library ../liburcl.so 

@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating ur10e_control.egg-info
+writing ur10e_control.egg-info/PKG-INFO
+writing dependency_links to ur10e_control.egg-info/dependency_links.txt
+writing entry points to ur10e_control.egg-info/entry_points.txt
+writing requirements to ur10e_control.egg-info/requires.txt
+writing top-level names to ur10e_control.egg-info/top_level.txt
+writing manifest file 'ur10e_control.egg-info/SOURCES.txt'
+reading manifest file 'ur10e_control.egg-info/SOURCES.txt'
+writing manifest file 'ur10e_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jenit/ur_ws/install/ur10e_control/lib/python3.10/site-packages/ur10e-control.egg-link (link to .)
+Installing ur10e_commander script to /home/jenit/ur_ws/install/ur10e_control/lib/ur10e_control
+
+Installed /home/jenit/ur_ws/build/ur10e_control
+running symlink_data
+creating /home/jenit/ur_ws/install/ur10e_control/share/ament_index
+creating /home/jenit/ur_ws/install/ur10e_control/share/ament_index/resource_index
+creating /home/jenit/ur_ws/install/ur10e_control/share/ament_index/resource_index/packages
+symbolically linking /home/jenit/ur_ws/build/ur10e_control/resource/ur10e_control -> /home/jenit/ur_ws/install/ur10e_control/share/ament_index/resource_index/packages
+symbolically linking /home/jenit/ur_ws/build/ur10e_control/package.xml -> /home/jenit/ur_ws/install/ur10e_control/share/ur10e_control

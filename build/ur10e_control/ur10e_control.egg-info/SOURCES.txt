@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/ur10e_control
+ur10e_control/__init__.py
+ur10e_control/ur10e_commander.py
+ur10e_control.egg-info/PKG-INFO
+ur10e_control.egg-info/SOURCES.txt
+ur10e_control.egg-info/dependency_links.txt
+ur10e_control.egg-info/entry_points.txt
+ur10e_control.egg-info/requires.txt
+ur10e_control.egg-info/top_level.txt
+ur10e_control.egg-info/zip-safe

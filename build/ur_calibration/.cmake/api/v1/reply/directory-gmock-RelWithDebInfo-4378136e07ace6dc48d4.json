@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "gmock",
+		"source" : "/home/jenit/ros2_humble/install/gmock_vendor/src/gmock_vendor"
+	}
+}

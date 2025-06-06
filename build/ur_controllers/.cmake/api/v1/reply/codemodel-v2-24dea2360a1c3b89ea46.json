@@ -1,0 +1,265 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-e6db22247d1739454dc5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						4,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"build" : "gmock",
+					"jsonFile" : "directory-gmock-4378136e07ace6dc48d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/home/jenit/ros2_humble/install/gmock_vendor/src/gmock_vendor",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "gtest",
+					"jsonFile" : "directory-gtest-31c198409ff27bfaaad1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "/home/jenit/ros2_humble/install/gtest_vendor/src/gtest_vendor",
+					"targetIndexes" : 
+					[
+						5,
+						6
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ur_controllers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						4,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "gmock",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gtest",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "force_mode_controller_parameters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-force_mode_controller_parameters-067f94b3e2184b3ae8ad.json",
+					"name" : "force_mode_controller_parameters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "freedrive_mode_controller_parameters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-freedrive_mode_controller_parameters-0be3dad61182c6b8616a.json",
+					"name" : "freedrive_mode_controller_parameters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gmock::@0590522bda6a4df7f28a",
+					"jsonFile" : "target-gmock-ae07c1470e540dbb3a48.json",
+					"name" : "gmock",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gmock_main::@0590522bda6a4df7f28a",
+					"jsonFile" : "target-gmock_main-ac02f5aa99b0edb99c2c.json",
+					"name" : "gmock_main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gpio_controller_parameters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gpio_controller_parameters-96b4f7ee5c0ad1283de4.json",
+					"name" : "gpio_controller_parameters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest-6c4420de1b554a33de29.json",
+					"name" : "gtest",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gtest_main::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest_main-1a18df2854956562ef3f.json",
+					"name" : "gtest_main",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "passthrough_trajectory_controller_parameters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-passthrough_trajectory_controller_parameters-797a7cb2f076eeadea07.json",
+					"name" : "passthrough_trajectory_controller_parameters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scaled_joint_trajectory_controller_parameters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scaled_joint_trajectory_controller_parameters-87231bb4d123e86d0f49.json",
+					"name" : "scaled_joint_trajectory_controller_parameters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "speed_scaling_state_broadcaster_parameters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-speed_scaling_state_broadcaster_parameters-87bfdb6bb1002d4b9793.json",
+					"name" : "speed_scaling_state_broadcaster_parameters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_load_force_mode_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_load_force_mode_controller-d01e8b1639bff48c6201.json",
+					"name" : "test_load_force_mode_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_load_freedrive_mode_controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_load_freedrive_mode_controller-d50df14eab679a4c0705.json",
+					"name" : "test_load_freedrive_mode_controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tool_contact_controller_parameters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tool_contact_controller_parameters-8fd5a8cf5dbd61729977.json",
+					"name" : "tool_contact_controller_parameters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-03535163c60a9073016e.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur_configuration_controller_parameters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur_configuration_controller_parameters-48bb363aa530ade5b486.json",
+					"name" : "ur_configuration_controller_parameters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur_controllers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur_controllers-c348d59392ed6f2ebe47.json",
+					"name" : "ur_controllers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur_controllers_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur_controllers_uninstall-01285c4e00e0a4575120.json",
+					"name" : "ur_controllers_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jenit/ur_ws/build/ur_controllers",
+		"source" : "/home/jenit/ur_ws/src/Universal_Robots_ROS2_Driver/ur_controllers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

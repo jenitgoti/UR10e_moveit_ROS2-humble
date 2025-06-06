@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -pedantic -O2 -g -DNDEBUG CMakeFiles/script_sender_example.dir/script_sender.cpp.o -o script_sender_example  -Wl,-rpath,/home/jenit/ur_ws/build/ur_client_library ../liburcl.so 

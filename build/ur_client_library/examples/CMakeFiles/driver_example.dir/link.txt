@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -pedantic -O2 -g -DNDEBUG CMakeFiles/driver_example.dir/full_driver.cpp.o -o driver_example  -Wl,-rpath,/home/jenit/ur_ws/build/ur_client_library ../liburcl.so 

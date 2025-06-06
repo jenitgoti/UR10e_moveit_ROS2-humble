@@ -1,0 +1,563 @@
+[0.049s] Invoking command in '/home/jenit/ur_ws/build/ur_dashboard_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jenit/ros2_humble/install/rqt_bag_plugins:/home/jenit/ros2_humble/install/rqt_bag:/home/jenit/ros2_humble/install/launch_testing_examples:/home/jenit/ros2_humble/install/ros2bag:/home/jenit/ros2_humble/install/tracetools_test:/home/jenit/ros2_humble/install/tracetools_launch:/home/jenit/ros2_humble/install/topic_monitor:/home/jenit/ros2_humble/install/tf2_tools:/home/jenit/ros2_humble/install/examples_tf2_py:/home/jenit/ros2_humble/install/tf2_ros_py:/home/jenit/ros2_humble/install/sros2:/home/jenit/ros2_humble/install/rqt_topic:/home/jenit/ros2_humble/install/rqt_srv:/home/jenit/ros2_humble/install/rqt_shell:/home/jenit/ros2_humble/install/rqt_service_caller:/home/jenit/ros2_humble/install/rqt_reconfigure:/home/jenit/ros2_humble/install/rqt_py_console:/home/jenit/ros2_humble/install/rqt_publisher:/home/jenit/ros2_humble/install/rqt_plot:/home/jenit/ros2_humble/install/rqt_action:/home/jenit/ros2_humble/install/rqt_msg:/home/jenit/ros2_humble/install/rqt_console:/home/jenit/ros2_humble/install/rqt:/home/jenit/ros2_humble/install/rqt_graph:/home/jenit/ros2_humble/install/rqt_gui_py:/home/jenit/ros2_humble/install/rqt_gui:/home/jenit/ros2_humble/install/ros2trace:/home/jenit/ros2_humble/install/ros2topic:/home/jenit/ros2_humble/install/ros2test:/home/jenit/ros2_humble/install/ros2component:/home/jenit/ros2_humble/install/ros2param:/home/jenit/ros2_humble/install/ros2lifecycle:/home/jenit/ros2_humble/install/ros2service:/home/jenit/ros2_humble/install/ros2run:/home/jenit/ros2_humble/install/ros2launch:/home/jenit/ros2_humble/install/ros2pkg:/home/jenit/ros2_humble/install/ros2node:/home/jenit/ros2_humble/install/ros2multicast:/home/jenit/ros2_humble/install/ros2interface:/home/jenit/ros2_humble/install/ros2doctor:/home/jenit/ros2_humble/install/ros2action:/home/jenit/ros2_humble/install/ros2cli:/home/jenit/ros2_humble/install/quality_of_service_demo_py:/home/jenit/ros2_humble/install/lifecycle_py:/home/jenit/ros2_humble/install/launch_testing_ros:/home/jenit/ros2_humble/install/launch_ros:/home/jenit/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/jenit/ros2_humble/install/examples_rclpy_minimal_service:/home/jenit/ros2_humble/install/examples_rclpy_minimal_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_client:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_server:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_client:/home/jenit/ros2_humble/install/examples_rclpy_guard_conditions:/home/jenit/ros2_humble/install/examples_rclpy_executors:/home/jenit/ros2_humble/install/demo_nodes_py:/home/jenit/ros2_humble/install/camera_info_manager_py:/home/jenit/ros2_humble/install/action_tutorials_py:/home/jenit/ros2_humble/install/ament_uncrustify:/home/jenit/ros2_humble/install/tracetools_trace:/home/jenit/ros2_humble/install/tracetools_read:/home/jenit/ros2_humble/install/test_tracetools_launch:/home/jenit/ros2_humble/install/test_launch_ros:/home/jenit/ros2_humble/install/sensor_msgs_py:/home/jenit/ros2_humble/install/rpyutils:/home/jenit/ros2_humble/install/rosidl_runtime_py:/home/jenit/ros2_humble/install/rosidl_cli:/home/jenit/ros2_humble/install/launch_pytest:/home/jenit/ros2_humble/install/launch_testing:/home/jenit/ros2_humble/install/launch_yaml:/home/jenit/ros2_humble/install/launch_xml:/home/jenit/ros2_humble/install/launch:/home/jenit/ros2_humble/install/osrf_pycommon:/home/jenit/ros2_humble/install/domain_coordinator:/home/jenit/ros2_humble/install/ament_xmllint:/home/jenit/ros2_humble/install/ament_pyflakes:/home/jenit/ros2_humble/install/ament_pycodestyle:/home/jenit/ros2_humble/install/ament_pep257:/home/jenit/ros2_humble/install/ament_pclint:/home/jenit/ros2_humble/install/ament_package:/home/jenit/ros2_humble/install/ament_mypy:/home/jenit/ros2_humble/install/ament_lint_cmake:/home/jenit/ros2_humble/install/ament_flake8:/home/jenit/ros2_humble/install/ament_copyright:/home/jenit/ros2_humble/install/ament_lint:/home/jenit/ros2_humble/install/ament_index_python:/home/jenit/ros2_humble/install/ament_cpplint:/home/jenit/ros2_humble/install/ament_cppcheck:/home/jenit/ros2_humble/install/ament_clang_tidy:/home/jenit/ros2_humble/install/ament_clang_format /usr/bin/cmake /home/jenit/ur_ws/src/Universal_Robots_ROS2_Driver/ur_dashboard_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jenit/ur_ws/install/ur_dashboard_msgs
+[0.157s] -- The C compiler identification is GNU 11.4.0
+[0.226s] -- The CXX compiler identification is GNU 11.4.0
+[0.236s] -- Detecting C compiler ABI info
+[0.362s] -- Detecting C compiler ABI info - done
+[0.367s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.367s] -- Detecting C compile features
+[0.368s] -- Detecting C compile features - done
+[0.370s] -- Detecting CXX compiler ABI info
+[0.508s] -- Detecting CXX compiler ABI info - done
+[0.516s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.517s] -- Detecting CXX compile features
+[0.517s] -- Detecting CXX compile features - done
+[0.530s] -- Found ament_cmake: 1.3.11 (/home/jenit/ros2_humble/install/ament_cmake/share/ament_cmake/cmake)
+[1.207s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.474s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.994s] -- Found rosidl_default_generators: 1.2.0 (/home/jenit/ros2_humble/install/rosidl_default_generators/share/rosidl_default_generators/cmake)
+[2.236s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_introspection_c;rosidl_typesupport_fastrtps_c
+[2.288s] -- Found rosidl_adapter: 3.1.6 (/home/jenit/ros2_humble/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[2.622s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+[2.810s] -- Found action_msgs: 1.2.1 (/home/jenit/ros2_humble/install/action_msgs/share/action_msgs/cmake)
+[5.019s] -- Found ament_cmake_ros: 0.10.0 (/home/jenit/ros2_humble/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[5.989s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_introspection_c;rosidl_typesupport_fastrtps_c
+[7.410s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+[7.553s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[7.571s] -- Found python_cmake_module: 0.10.0 (/home/jenit/ros2_humble/install/python_cmake_module/share/python_cmake_module/cmake)
+[7.782s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[7.783s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[7.783s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[7.783s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[7.943s] -- Found PythonExtra: .so  
+[9.015s] -- Configuring done
+[9.093s] -- Generating done
+[9.113s] -- Build files have been written to: /home/jenit/ur_ws/build/ur_dashboard_msgs
+[9.147s] Invoked command in '/home/jenit/ur_ws/build/ur_dashboard_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jenit/ros2_humble/install/rqt_bag_plugins:/home/jenit/ros2_humble/install/rqt_bag:/home/jenit/ros2_humble/install/launch_testing_examples:/home/jenit/ros2_humble/install/ros2bag:/home/jenit/ros2_humble/install/tracetools_test:/home/jenit/ros2_humble/install/tracetools_launch:/home/jenit/ros2_humble/install/topic_monitor:/home/jenit/ros2_humble/install/tf2_tools:/home/jenit/ros2_humble/install/examples_tf2_py:/home/jenit/ros2_humble/install/tf2_ros_py:/home/jenit/ros2_humble/install/sros2:/home/jenit/ros2_humble/install/rqt_topic:/home/jenit/ros2_humble/install/rqt_srv:/home/jenit/ros2_humble/install/rqt_shell:/home/jenit/ros2_humble/install/rqt_service_caller:/home/jenit/ros2_humble/install/rqt_reconfigure:/home/jenit/ros2_humble/install/rqt_py_console:/home/jenit/ros2_humble/install/rqt_publisher:/home/jenit/ros2_humble/install/rqt_plot:/home/jenit/ros2_humble/install/rqt_action:/home/jenit/ros2_humble/install/rqt_msg:/home/jenit/ros2_humble/install/rqt_console:/home/jenit/ros2_humble/install/rqt:/home/jenit/ros2_humble/install/rqt_graph:/home/jenit/ros2_humble/install/rqt_gui_py:/home/jenit/ros2_humble/install/rqt_gui:/home/jenit/ros2_humble/install/ros2trace:/home/jenit/ros2_humble/install/ros2topic:/home/jenit/ros2_humble/install/ros2test:/home/jenit/ros2_humble/install/ros2component:/home/jenit/ros2_humble/install/ros2param:/home/jenit/ros2_humble/install/ros2lifecycle:/home/jenit/ros2_humble/install/ros2service:/home/jenit/ros2_humble/install/ros2run:/home/jenit/ros2_humble/install/ros2launch:/home/jenit/ros2_humble/install/ros2pkg:/home/jenit/ros2_humble/install/ros2node:/home/jenit/ros2_humble/install/ros2multicast:/home/jenit/ros2_humble/install/ros2interface:/home/jenit/ros2_humble/install/ros2doctor:/home/jenit/ros2_humble/install/ros2action:/home/jenit/ros2_humble/install/ros2cli:/home/jenit/ros2_humble/install/quality_of_service_demo_py:/home/jenit/ros2_humble/install/lifecycle_py:/home/jenit/ros2_humble/install/launch_testing_ros:/home/jenit/ros2_humble/install/launch_ros:/home/jenit/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/jenit/ros2_humble/install/examples_rclpy_minimal_service:/home/jenit/ros2_humble/install/examples_rclpy_minimal_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_client:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_server:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_client:/home/jenit/ros2_humble/install/examples_rclpy_guard_conditions:/home/jenit/ros2_humble/install/examples_rclpy_executors:/home/jenit/ros2_humble/install/demo_nodes_py:/home/jenit/ros2_humble/install/camera_info_manager_py:/home/jenit/ros2_humble/install/action_tutorials_py:/home/jenit/ros2_humble/install/ament_uncrustify:/home/jenit/ros2_humble/install/tracetools_trace:/home/jenit/ros2_humble/install/tracetools_read:/home/jenit/ros2_humble/install/test_tracetools_launch:/home/jenit/ros2_humble/install/test_launch_ros:/home/jenit/ros2_humble/install/sensor_msgs_py:/home/jenit/ros2_humble/install/rpyutils:/home/jenit/ros2_humble/install/rosidl_runtime_py:/home/jenit/ros2_humble/install/rosidl_cli:/home/jenit/ros2_humble/install/launch_pytest:/home/jenit/ros2_humble/install/launch_testing:/home/jenit/ros2_humble/install/launch_yaml:/home/jenit/ros2_humble/install/launch_xml:/home/jenit/ros2_humble/install/launch:/home/jenit/ros2_humble/install/osrf_pycommon:/home/jenit/ros2_humble/install/domain_coordinator:/home/jenit/ros2_humble/install/ament_xmllint:/home/jenit/ros2_humble/install/ament_pyflakes:/home/jenit/ros2_humble/install/ament_pycodestyle:/home/jenit/ros2_humble/install/ament_pep257:/home/jenit/ros2_humble/install/ament_pclint:/home/jenit/ros2_humble/install/ament_package:/home/jenit/ros2_humble/install/ament_mypy:/home/jenit/ros2_humble/install/ament_lint_cmake:/home/jenit/ros2_humble/install/ament_flake8:/home/jenit/ros2_humble/install/ament_copyright:/home/jenit/ros2_humble/install/ament_lint:/home/jenit/ros2_humble/install/ament_index_python:/home/jenit/ros2_humble/install/ament_cpplint:/home/jenit/ros2_humble/install/ament_cppcheck:/home/jenit/ros2_humble/install/ament_clang_tidy:/home/jenit/ros2_humble/install/ament_clang_format /usr/bin/cmake /home/jenit/ur_ws/src/Universal_Robots_ROS2_Driver/ur_dashboard_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jenit/ur_ws/install/ur_dashboard_msgs
+[9.153s] Invoking command in '/home/jenit/ur_ws/build/ur_dashboard_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jenit/ros2_humble/install/rqt_bag_plugins:/home/jenit/ros2_humble/install/rqt_bag:/home/jenit/ros2_humble/install/launch_testing_examples:/home/jenit/ros2_humble/install/ros2bag:/home/jenit/ros2_humble/install/tracetools_test:/home/jenit/ros2_humble/install/tracetools_launch:/home/jenit/ros2_humble/install/topic_monitor:/home/jenit/ros2_humble/install/tf2_tools:/home/jenit/ros2_humble/install/examples_tf2_py:/home/jenit/ros2_humble/install/tf2_ros_py:/home/jenit/ros2_humble/install/sros2:/home/jenit/ros2_humble/install/rqt_topic:/home/jenit/ros2_humble/install/rqt_srv:/home/jenit/ros2_humble/install/rqt_shell:/home/jenit/ros2_humble/install/rqt_service_caller:/home/jenit/ros2_humble/install/rqt_reconfigure:/home/jenit/ros2_humble/install/rqt_py_console:/home/jenit/ros2_humble/install/rqt_publisher:/home/jenit/ros2_humble/install/rqt_plot:/home/jenit/ros2_humble/install/rqt_action:/home/jenit/ros2_humble/install/rqt_msg:/home/jenit/ros2_humble/install/rqt_console:/home/jenit/ros2_humble/install/rqt:/home/jenit/ros2_humble/install/rqt_graph:/home/jenit/ros2_humble/install/rqt_gui_py:/home/jenit/ros2_humble/install/rqt_gui:/home/jenit/ros2_humble/install/ros2trace:/home/jenit/ros2_humble/install/ros2topic:/home/jenit/ros2_humble/install/ros2test:/home/jenit/ros2_humble/install/ros2component:/home/jenit/ros2_humble/install/ros2param:/home/jenit/ros2_humble/install/ros2lifecycle:/home/jenit/ros2_humble/install/ros2service:/home/jenit/ros2_humble/install/ros2run:/home/jenit/ros2_humble/install/ros2launch:/home/jenit/ros2_humble/install/ros2pkg:/home/jenit/ros2_humble/install/ros2node:/home/jenit/ros2_humble/install/ros2multicast:/home/jenit/ros2_humble/install/ros2interface:/home/jenit/ros2_humble/install/ros2doctor:/home/jenit/ros2_humble/install/ros2action:/home/jenit/ros2_humble/install/ros2cli:/home/jenit/ros2_humble/install/quality_of_service_demo_py:/home/jenit/ros2_humble/install/lifecycle_py:/home/jenit/ros2_humble/install/launch_testing_ros:/home/jenit/ros2_humble/install/launch_ros:/home/jenit/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/jenit/ros2_humble/install/examples_rclpy_minimal_service:/home/jenit/ros2_humble/install/examples_rclpy_minimal_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_client:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_server:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_client:/home/jenit/ros2_humble/install/examples_rclpy_guard_conditions:/home/jenit/ros2_humble/install/examples_rclpy_executors:/home/jenit/ros2_humble/install/demo_nodes_py:/home/jenit/ros2_humble/install/camera_info_manager_py:/home/jenit/ros2_humble/install/action_tutorials_py:/home/jenit/ros2_humble/install/ament_uncrustify:/home/jenit/ros2_humble/install/tracetools_trace:/home/jenit/ros2_humble/install/tracetools_read:/home/jenit/ros2_humble/install/test_tracetools_launch:/home/jenit/ros2_humble/install/test_launch_ros:/home/jenit/ros2_humble/install/sensor_msgs_py:/home/jenit/ros2_humble/install/rpyutils:/home/jenit/ros2_humble/install/rosidl_runtime_py:/home/jenit/ros2_humble/install/rosidl_cli:/home/jenit/ros2_humble/install/launch_pytest:/home/jenit/ros2_humble/install/launch_testing:/home/jenit/ros2_humble/install/launch_yaml:/home/jenit/ros2_humble/install/launch_xml:/home/jenit/ros2_humble/install/launch:/home/jenit/ros2_humble/install/osrf_pycommon:/home/jenit/ros2_humble/install/domain_coordinator:/home/jenit/ros2_humble/install/ament_xmllint:/home/jenit/ros2_humble/install/ament_pyflakes:/home/jenit/ros2_humble/install/ament_pycodestyle:/home/jenit/ros2_humble/install/ament_pep257:/home/jenit/ros2_humble/install/ament_pclint:/home/jenit/ros2_humble/install/ament_package:/home/jenit/ros2_humble/install/ament_mypy:/home/jenit/ros2_humble/install/ament_lint_cmake:/home/jenit/ros2_humble/install/ament_flake8:/home/jenit/ros2_humble/install/ament_copyright:/home/jenit/ros2_humble/install/ament_lint:/home/jenit/ros2_humble/install/ament_index_python:/home/jenit/ros2_humble/install/ament_cpplint:/home/jenit/ros2_humble/install/ament_cppcheck:/home/jenit/ros2_humble/install/ament_clang_tidy:/home/jenit/ros2_humble/install/ament_clang_format /usr/bin/cmake --build /home/jenit/ur_ws/build/ur_dashboard_msgs -- -j4 -l4
+[9.411s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[9.512s] [  1%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[9.539s] [  1%] Built target ament_cmake_python_symlink_ur_dashboard_msgs
+[10.878s] running egg_info
+[10.879s] creating ur_dashboard_msgs.egg-info
+[10.880s] writing ur_dashboard_msgs.egg-info/PKG-INFO
+[10.881s] writing dependency_links to ur_dashboard_msgs.egg-info/dependency_links.txt
+[10.881s] writing top-level names to ur_dashboard_msgs.egg-info/top_level.txt
+[10.882s] writing manifest file 'ur_dashboard_msgs.egg-info/SOURCES.txt'
+[10.892s] reading manifest file 'ur_dashboard_msgs.egg-info/SOURCES.txt'
+[10.894s] writing manifest file 'ur_dashboard_msgs.egg-info/SOURCES.txt'
+[10.973s] [  1%] Built target ament_cmake_python_build_ur_dashboard_msgs_egg
+[15.277s] [  1%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/msg/detail/program_state__functions.c.o[0m
+[15.301s] [  2%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/msg/detail/robot_mode__functions.c.o[0m
+[15.385s] [  3%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/msg/detail/safety_mode__functions.c.o[0m
+[15.532s] [  4%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/srv/detail/add_to_log__functions.c.o[0m
+[15.623s] [  4%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/srv/detail/get_loaded_program__functions.c.o[0m
+[15.637s] [  5%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/srv/detail/get_program_state__functions.c.o[0m
+[15.854s] [  6%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/srv/detail/get_robot_mode__functions.c.o[0m
+[15.873s] [  7%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/srv/detail/get_safety_mode__functions.c.o[0m
+[15.898s] [  7%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/srv/detail/is_program_running__functions.c.o[0m
+[16.087s] [  8%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/srv/detail/is_program_saved__functions.c.o[0m
+[16.130s] [  9%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/srv/detail/load__functions.c.o[0m
+[16.328s] [ 10%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/srv/detail/popup__functions.c.o[0m
+[16.340s] [ 10%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/srv/detail/raw_request__functions.c.o[0m
+[16.342s] [ 11%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/ur_dashboard_msgs/action/detail/set_mode__functions.c.o[0m
+[16.834s] [ 11%] Built target ur_dashboard_msgs__cpp
+[16.834s] [ 12%] [32m[1mLinking C shared library libur_dashboard_msgs__rosidl_generator_c.so[0m
+[16.911s] [ 13%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[16.923s] [ 13%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[16.936s] [ 14%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[17.076s] [ 14%] Built target ur_dashboard_msgs__rosidl_generator_c
+[17.142s] [ 15%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[20.617s] [ 16%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/msg/program_state__type_support.cpp.o[0m
+[21.345s] [ 17%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/msg/robot_mode__type_support.cpp.o[0m
+[22.041s] [ 17%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/msg/safety_mode__type_support.cpp.o[0m
+[22.319s] [ 18%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/msg/detail/program_state__type_support.c.o[0m
+[22.506s] [ 19%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/msg/detail/robot_mode__type_support.c.o[0m
+[22.554s] [ 20%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/msg/detail/program_state__type_support.cpp.o[0m
+[22.654s] [ 20%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/msg/detail/safety_mode__type_support.c.o[0m
+[22.769s] [ 21%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/msg/detail/dds_fastrtps/program_state__type_support.cpp.o[0m
+[22.831s] [ 22%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/srv/detail/add_to_log__type_support.c.o[0m
+[22.874s] [ 23%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/srv/add_to_log__type_support.cpp.o[0m
+[23.045s] [ 24%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/srv/detail/get_loaded_program__type_support.c.o[0m
+[23.173s] [ 25%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/srv/detail/get_program_state__type_support.c.o[0m
+[23.350s] [ 25%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/srv/detail/get_robot_mode__type_support.c.o[0m
+[23.553s] [ 26%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/msg/detail/robot_mode__type_support.cpp.o[0m
+[23.570s] [ 27%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/srv/detail/get_safety_mode__type_support.c.o[0m
+[23.727s] [ 28%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/srv/get_loaded_program__type_support.cpp.o[0m
+[23.800s] [ 29%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/srv/detail/is_program_running__type_support.c.o[0m
+[24.014s] [ 29%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/srv/detail/is_program_saved__type_support.c.o[0m
+[24.103s] [ 30%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/msg/detail/dds_fastrtps/robot_mode__type_support.cpp.o[0m
+[24.168s] [ 30%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/srv/get_program_state__type_support.cpp.o[0m
+[24.209s] [ 31%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/srv/detail/load__type_support.c.o[0m
+[24.406s] [ 32%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/srv/detail/popup__type_support.c.o[0m
+[24.567s] [ 33%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/srv/detail/raw_request__type_support.c.o[0m
+[24.680s] [ 34%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/srv/get_robot_mode__type_support.cpp.o[0m
+[24.695s] [ 35%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/msg/detail/safety_mode__type_support.cpp.o[0m
+[24.734s] [ 35%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur_dashboard_msgs/action/detail/set_mode__type_support.c.o[0m
+[24.943s] [ 36%] [32m[1mLinking C shared library libur_dashboard_msgs__rosidl_typesupport_introspection_c.so[0m
+[25.122s] [ 36%] Built target ur_dashboard_msgs__rosidl_typesupport_introspection_c
+[25.203s] [ 37%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[25.300s] [ 37%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/msg/detail/dds_fastrtps/safety_mode__type_support.cpp.o[0m
+[25.310s] [ 38%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/srv/get_safety_mode__type_support.cpp.o[0m
+[25.529s] [ 38%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/srv/detail/add_to_log__type_support.cpp.o[0m
+[26.228s] [ 39%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/srv/is_program_running__type_support.cpp.o[0m
+[26.283s] [ 40%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/srv/detail/dds_fastrtps/add_to_log__type_support.cpp.o[0m
+[26.661s] [ 40%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/srv/is_program_saved__type_support.cpp.o[0m
+[26.675s] [ 41%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/srv/detail/get_loaded_program__type_support.cpp.o[0m
+[27.030s] [ 42%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/srv/load__type_support.cpp.o[0m
+[27.340s] [ 43%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/srv/detail/dds_fastrtps/get_loaded_program__type_support.cpp.o[0m
+[27.428s] [ 44%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/srv/detail/get_program_state__type_support.cpp.o[0m
+[27.617s] [ 45%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/srv/popup__type_support.cpp.o[0m
+[27.916s] [ 46%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/srv/detail/dds_fastrtps/get_program_state__type_support.cpp.o[0m
+[28.042s] [ 47%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/srv/detail/get_robot_mode__type_support.cpp.o[0m
+[28.073s] [ 48%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/srv/raw_request__type_support.cpp.o[0m
+[28.405s] [ 48%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/srv/detail/dds_fastrtps/get_robot_mode__type_support.cpp.o[0m
+[28.467s] [ 48%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ur_dashboard_msgs/action/set_mode__type_support.cpp.o[0m
+[28.524s] [ 48%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/srv/detail/get_safety_mode__type_support.cpp.o[0m
+[28.811s] [ 49%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/msg/detail/program_state__type_support_c.cpp.o[0m
+[29.098s] [ 50%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/srv/detail/is_program_running__type_support.cpp.o[0m
+[29.357s] [ 51%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/srv/detail/dds_fastrtps/get_safety_mode__type_support.cpp.o[0m
+[29.532s] [ 52%] [32m[1mLinking CXX shared library libur_dashboard_msgs__rosidl_typesupport_cpp.so[0m
+[29.737s] [ 52%] Built target ur_dashboard_msgs__rosidl_typesupport_cpp
+[29.784s] [ 53%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/srv/detail/is_program_saved__type_support.cpp.o[0m
+[29.818s] [ 53%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/msg/detail/robot_mode__type_support_c.cpp.o[0m
+[30.115s] [ 54%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/msg/detail/safety_mode__type_support_c.cpp.o[0m
+[30.706s] [ 55%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/srv/detail/dds_fastrtps/is_program_running__type_support.cpp.o[0m
+[30.723s] [ 56%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[30.888s] [ 58%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/srv/detail/add_to_log__type_support_c.cpp.o[0m
+[30.888s] [ 58%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/srv/detail/load__type_support.cpp.o[0m
+[31.591s] [ 59%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/srv/detail/dds_fastrtps/is_program_saved__type_support.cpp.o[0m
+[31.988s] [ 60%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/srv/detail/get_loaded_program__type_support_c.cpp.o[0m
+[32.086s] [ 60%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/srv/detail/popup__type_support.cpp.o[0m
+[32.899s] [ 60%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/srv/detail/dds_fastrtps/load__type_support.cpp.o[0m
+[33.261s] [ 61%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/srv/detail/raw_request__type_support.cpp.o[0m
+[33.394s] [ 61%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/srv/detail/get_program_state__type_support_c.cpp.o[0m
+[34.084s] [ 62%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/srv/detail/dds_fastrtps/popup__type_support.cpp.o[0m
+[34.153s] [ 63%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ur_dashboard_msgs/action/detail/set_mode__type_support.cpp.o[0m
+[34.433s] [ 64%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/srv/detail/get_robot_mode__type_support_c.cpp.o[0m
+[34.524s] [ 64%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/msg/program_state__type_support.cpp.o[0m
+[34.754s] [ 65%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/msg/robot_mode__type_support.cpp.o[0m
+[34.939s] [ 66%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/msg/safety_mode__type_support.cpp.o[0m
+[35.095s] [ 67%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/srv/add_to_log__type_support.cpp.o[0m
+[35.253s] [ 67%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/srv/get_loaded_program__type_support.cpp.o[0m
+[35.321s] [ 68%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/srv/detail/get_safety_mode__type_support_c.cpp.o[0m
+[35.431s] [ 69%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/srv/detail/dds_fastrtps/raw_request__type_support.cpp.o[0m
+[35.463s] [ 70%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/srv/get_program_state__type_support.cpp.o[0m
+[35.667s] [ 71%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/srv/get_robot_mode__type_support.cpp.o[0m
+[35.819s] [ 72%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/srv/get_safety_mode__type_support.cpp.o[0m
+[35.870s] [ 73%] [32m[1mLinking CXX shared library libur_dashboard_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[35.963s] [ 73%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/srv/is_program_running__type_support.cpp.o[0m
+[36.137s] [ 74%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/srv/is_program_saved__type_support.cpp.o[0m
+[36.207s] [ 75%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/srv/detail/is_program_running__type_support_c.cpp.o[0m
+[36.248s] [ 75%] Built target ur_dashboard_msgs__rosidl_typesupport_introspection_cpp
+[36.285s] [ 76%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/srv/load__type_support.cpp.o[0m
+[36.335s] [ 76%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/srv/detail/is_program_saved__type_support_c.cpp.o[0m
+[36.459s] [ 77%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/srv/popup__type_support.cpp.o[0m
+[36.590s] [ 78%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur_dashboard_msgs/action/detail/dds_fastrtps/set_mode__type_support.cpp.o[0m
+[36.615s] [ 78%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/srv/raw_request__type_support.cpp.o[0m
+[36.801s] [ 79%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur_dashboard_msgs/action/set_mode__type_support.cpp.o[0m
+[36.993s] [ 80%] [32m[1mLinking CXX shared library libur_dashboard_msgs__rosidl_typesupport_c.so[0m
+[37.017s] [ 81%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/srv/detail/load__type_support_c.cpp.o[0m
+[37.174s] [ 81%] Built target ur_dashboard_msgs__rosidl_typesupport_c
+[37.207s] [ 82%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/srv/detail/popup__type_support_c.cpp.o[0m
+[37.359s] [ 83%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/srv/detail/raw_request__type_support_c.cpp.o[0m
+[37.551s] [ 83%] [32m[1mLinking CXX shared library libur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[37.596s] [ 83%] [32mBuilding CXX object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ur_dashboard_msgs/action/detail/set_mode__type_support_c.cpp.o[0m
+[37.832s] [ 83%] Built target ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp
+[38.497s] [ 84%] [32m[1mLinking CXX shared library libur_dashboard_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[38.714s] [ 84%] Built target ur_dashboard_msgs__rosidl_typesupport_fastrtps_c
+[38.786s] [ 84%] Built target ur_dashboard_msgs
+[38.861s] [ 85%] [34m[1mGenerating Python code for ROS interfaces[0m
+[41.741s] [ 85%] Built target ur_dashboard_msgs__py
+[41.779s] [ 86%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/msg/_program_state_s.c.o[0m
+[41.885s] [ 87%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/srv/_add_to_log_s.c.o[0m
+[41.974s] [ 88%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/srv/_get_loaded_program_s.c.o[0m
+[42.062s] [ 88%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/srv/_get_program_state_s.c.o[0m
+[42.154s] [ 89%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/srv/_get_robot_mode_s.c.o[0m
+[42.244s] [ 90%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/srv/_get_safety_mode_s.c.o[0m
+[42.337s] [ 91%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/srv/_is_program_running_s.c.o[0m
+[42.426s] [ 91%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/srv/_is_program_saved_s.c.o[0m
+[42.516s] [ 92%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/srv/_load_s.c.o[0m
+[42.606s] [ 93%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/srv/_popup_s.c.o[0m
+[42.695s] [ 93%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/srv/_raw_request_s.c.o[0m
+[42.784s] [ 94%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/action/_set_mode_s.c.o[0m
+[42.901s] [ 95%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/msg/_safety_mode_s.c.o[0m
+[42.984s] [ 95%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/ur_dashboard_msgs/msg/_robot_mode_s.c.o[0m
+[43.068s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/ur_dashboard_msgs/libur_dashboard_msgs__rosidl_generator_py.so[0m
+[43.123s] [ 96%] Built target ur_dashboard_msgs__rosidl_generator_py
+[43.167s] [ 98%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/ur_dashboard_msgs/_ur_dashboard_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[43.168s] [ 98%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/ur_dashboard_msgs/_ur_dashboard_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[43.320s] [ 99%] [32m[1mLinking C shared library rosidl_generator_py/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[43.323s] [ 99%] [32m[1mLinking C shared library rosidl_generator_py/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[43.377s] [ 99%] Built target ur_dashboard_msgs__rosidl_typesupport_introspection_c__pyext
+[43.380s] [ 99%] Built target ur_dashboard_msgs__rosidl_typesupport_fastrtps_c__pyext
+[43.415s] [100%] [32mBuilding C object CMakeFiles/ur_dashboard_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/ur_dashboard_msgs/_ur_dashboard_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[43.564s] [100%] [32m[1mLinking C shared library rosidl_generator_py/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[43.616s] [100%] Built target ur_dashboard_msgs__rosidl_typesupport_c__pyext
+[43.631s] Invoked command in '/home/jenit/ur_ws/build/ur_dashboard_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jenit/ros2_humble/install/rqt_bag_plugins:/home/jenit/ros2_humble/install/rqt_bag:/home/jenit/ros2_humble/install/launch_testing_examples:/home/jenit/ros2_humble/install/ros2bag:/home/jenit/ros2_humble/install/tracetools_test:/home/jenit/ros2_humble/install/tracetools_launch:/home/jenit/ros2_humble/install/topic_monitor:/home/jenit/ros2_humble/install/tf2_tools:/home/jenit/ros2_humble/install/examples_tf2_py:/home/jenit/ros2_humble/install/tf2_ros_py:/home/jenit/ros2_humble/install/sros2:/home/jenit/ros2_humble/install/rqt_topic:/home/jenit/ros2_humble/install/rqt_srv:/home/jenit/ros2_humble/install/rqt_shell:/home/jenit/ros2_humble/install/rqt_service_caller:/home/jenit/ros2_humble/install/rqt_reconfigure:/home/jenit/ros2_humble/install/rqt_py_console:/home/jenit/ros2_humble/install/rqt_publisher:/home/jenit/ros2_humble/install/rqt_plot:/home/jenit/ros2_humble/install/rqt_action:/home/jenit/ros2_humble/install/rqt_msg:/home/jenit/ros2_humble/install/rqt_console:/home/jenit/ros2_humble/install/rqt:/home/jenit/ros2_humble/install/rqt_graph:/home/jenit/ros2_humble/install/rqt_gui_py:/home/jenit/ros2_humble/install/rqt_gui:/home/jenit/ros2_humble/install/ros2trace:/home/jenit/ros2_humble/install/ros2topic:/home/jenit/ros2_humble/install/ros2test:/home/jenit/ros2_humble/install/ros2component:/home/jenit/ros2_humble/install/ros2param:/home/jenit/ros2_humble/install/ros2lifecycle:/home/jenit/ros2_humble/install/ros2service:/home/jenit/ros2_humble/install/ros2run:/home/jenit/ros2_humble/install/ros2launch:/home/jenit/ros2_humble/install/ros2pkg:/home/jenit/ros2_humble/install/ros2node:/home/jenit/ros2_humble/install/ros2multicast:/home/jenit/ros2_humble/install/ros2interface:/home/jenit/ros2_humble/install/ros2doctor:/home/jenit/ros2_humble/install/ros2action:/home/jenit/ros2_humble/install/ros2cli:/home/jenit/ros2_humble/install/quality_of_service_demo_py:/home/jenit/ros2_humble/install/lifecycle_py:/home/jenit/ros2_humble/install/launch_testing_ros:/home/jenit/ros2_humble/install/launch_ros:/home/jenit/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/jenit/ros2_humble/install/examples_rclpy_minimal_service:/home/jenit/ros2_humble/install/examples_rclpy_minimal_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_client:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_server:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_client:/home/jenit/ros2_humble/install/examples_rclpy_guard_conditions:/home/jenit/ros2_humble/install/examples_rclpy_executors:/home/jenit/ros2_humble/install/demo_nodes_py:/home/jenit/ros2_humble/install/camera_info_manager_py:/home/jenit/ros2_humble/install/action_tutorials_py:/home/jenit/ros2_humble/install/ament_uncrustify:/home/jenit/ros2_humble/install/tracetools_trace:/home/jenit/ros2_humble/install/tracetools_read:/home/jenit/ros2_humble/install/test_tracetools_launch:/home/jenit/ros2_humble/install/test_launch_ros:/home/jenit/ros2_humble/install/sensor_msgs_py:/home/jenit/ros2_humble/install/rpyutils:/home/jenit/ros2_humble/install/rosidl_runtime_py:/home/jenit/ros2_humble/install/rosidl_cli:/home/jenit/ros2_humble/install/launch_pytest:/home/jenit/ros2_humble/install/launch_testing:/home/jenit/ros2_humble/install/launch_yaml:/home/jenit/ros2_humble/install/launch_xml:/home/jenit/ros2_humble/install/launch:/home/jenit/ros2_humble/install/osrf_pycommon:/home/jenit/ros2_humble/install/domain_coordinator:/home/jenit/ros2_humble/install/ament_xmllint:/home/jenit/ros2_humble/install/ament_pyflakes:/home/jenit/ros2_humble/install/ament_pycodestyle:/home/jenit/ros2_humble/install/ament_pep257:/home/jenit/ros2_humble/install/ament_pclint:/home/jenit/ros2_humble/install/ament_package:/home/jenit/ros2_humble/install/ament_mypy:/home/jenit/ros2_humble/install/ament_lint_cmake:/home/jenit/ros2_humble/install/ament_flake8:/home/jenit/ros2_humble/install/ament_copyright:/home/jenit/ros2_humble/install/ament_lint:/home/jenit/ros2_humble/install/ament_index_python:/home/jenit/ros2_humble/install/ament_cpplint:/home/jenit/ros2_humble/install/ament_cppcheck:/home/jenit/ros2_humble/install/ament_clang_tidy:/home/jenit/ros2_humble/install/ament_clang_format /usr/bin/cmake --build /home/jenit/ur_ws/build/ur_dashboard_msgs -- -j4 -l4
+[43.632s] Invoking command in '/home/jenit/ur_ws/build/ur_dashboard_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jenit/ros2_humble/install/rqt_bag_plugins:/home/jenit/ros2_humble/install/rqt_bag:/home/jenit/ros2_humble/install/launch_testing_examples:/home/jenit/ros2_humble/install/ros2bag:/home/jenit/ros2_humble/install/tracetools_test:/home/jenit/ros2_humble/install/tracetools_launch:/home/jenit/ros2_humble/install/topic_monitor:/home/jenit/ros2_humble/install/tf2_tools:/home/jenit/ros2_humble/install/examples_tf2_py:/home/jenit/ros2_humble/install/tf2_ros_py:/home/jenit/ros2_humble/install/sros2:/home/jenit/ros2_humble/install/rqt_topic:/home/jenit/ros2_humble/install/rqt_srv:/home/jenit/ros2_humble/install/rqt_shell:/home/jenit/ros2_humble/install/rqt_service_caller:/home/jenit/ros2_humble/install/rqt_reconfigure:/home/jenit/ros2_humble/install/rqt_py_console:/home/jenit/ros2_humble/install/rqt_publisher:/home/jenit/ros2_humble/install/rqt_plot:/home/jenit/ros2_humble/install/rqt_action:/home/jenit/ros2_humble/install/rqt_msg:/home/jenit/ros2_humble/install/rqt_console:/home/jenit/ros2_humble/install/rqt:/home/jenit/ros2_humble/install/rqt_graph:/home/jenit/ros2_humble/install/rqt_gui_py:/home/jenit/ros2_humble/install/rqt_gui:/home/jenit/ros2_humble/install/ros2trace:/home/jenit/ros2_humble/install/ros2topic:/home/jenit/ros2_humble/install/ros2test:/home/jenit/ros2_humble/install/ros2component:/home/jenit/ros2_humble/install/ros2param:/home/jenit/ros2_humble/install/ros2lifecycle:/home/jenit/ros2_humble/install/ros2service:/home/jenit/ros2_humble/install/ros2run:/home/jenit/ros2_humble/install/ros2launch:/home/jenit/ros2_humble/install/ros2pkg:/home/jenit/ros2_humble/install/ros2node:/home/jenit/ros2_humble/install/ros2multicast:/home/jenit/ros2_humble/install/ros2interface:/home/jenit/ros2_humble/install/ros2doctor:/home/jenit/ros2_humble/install/ros2action:/home/jenit/ros2_humble/install/ros2cli:/home/jenit/ros2_humble/install/quality_of_service_demo_py:/home/jenit/ros2_humble/install/lifecycle_py:/home/jenit/ros2_humble/install/launch_testing_ros:/home/jenit/ros2_humble/install/launch_ros:/home/jenit/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/jenit/ros2_humble/install/examples_rclpy_minimal_service:/home/jenit/ros2_humble/install/examples_rclpy_minimal_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_client:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_server:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_client:/home/jenit/ros2_humble/install/examples_rclpy_guard_conditions:/home/jenit/ros2_humble/install/examples_rclpy_executors:/home/jenit/ros2_humble/install/demo_nodes_py:/home/jenit/ros2_humble/install/camera_info_manager_py:/home/jenit/ros2_humble/install/action_tutorials_py:/home/jenit/ros2_humble/install/ament_uncrustify:/home/jenit/ros2_humble/install/tracetools_trace:/home/jenit/ros2_humble/install/tracetools_read:/home/jenit/ros2_humble/install/test_tracetools_launch:/home/jenit/ros2_humble/install/test_launch_ros:/home/jenit/ros2_humble/install/sensor_msgs_py:/home/jenit/ros2_humble/install/rpyutils:/home/jenit/ros2_humble/install/rosidl_runtime_py:/home/jenit/ros2_humble/install/rosidl_cli:/home/jenit/ros2_humble/install/launch_pytest:/home/jenit/ros2_humble/install/launch_testing:/home/jenit/ros2_humble/install/launch_yaml:/home/jenit/ros2_humble/install/launch_xml:/home/jenit/ros2_humble/install/launch:/home/jenit/ros2_humble/install/osrf_pycommon:/home/jenit/ros2_humble/install/domain_coordinator:/home/jenit/ros2_humble/install/ament_xmllint:/home/jenit/ros2_humble/install/ament_pyflakes:/home/jenit/ros2_humble/install/ament_pycodestyle:/home/jenit/ros2_humble/install/ament_pep257:/home/jenit/ros2_humble/install/ament_pclint:/home/jenit/ros2_humble/install/ament_package:/home/jenit/ros2_humble/install/ament_mypy:/home/jenit/ros2_humble/install/ament_lint_cmake:/home/jenit/ros2_humble/install/ament_flake8:/home/jenit/ros2_humble/install/ament_copyright:/home/jenit/ros2_humble/install/ament_lint:/home/jenit/ros2_humble/install/ament_index_python:/home/jenit/ros2_humble/install/ament_cpplint:/home/jenit/ros2_humble/install/ament_cppcheck:/home/jenit/ros2_humble/install/ament_clang_tidy:/home/jenit/ros2_humble/install/ament_clang_format /usr/bin/cmake --install /home/jenit/ur_ws/build/ur_dashboard_msgs
+[43.645s] -- Install configuration: ""
+[43.646s] -- Execute custom install script
+[43.646s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ament_index/resource_index/rosidl_interfaces/ur_dashboard_msgs
+[43.660s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/detail/set_mode__functions.h
+[43.672s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/detail/set_mode__struct.h
+[43.684s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/detail/set_mode__type_support.h
+[43.697s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/set_mode.h
+[43.709s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/program_state__functions.h
+[43.721s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/program_state__struct.h
+[43.734s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/program_state__type_support.h
+[43.748s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/robot_mode__functions.h
+[43.760s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/robot_mode__struct.h
+[43.772s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/robot_mode__type_support.h
+[43.784s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/safety_mode__functions.h
+[43.797s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/safety_mode__struct.h
+[43.809s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/safety_mode__type_support.h
+[43.822s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/program_state.h
+[43.835s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/robot_mode.h
+[43.848s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/rosidl_generator_c__visibility_control.h
+[43.860s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/safety_mode.h
+[43.873s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/add_to_log.h
+[43.885s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/add_to_log__functions.h
+[43.897s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/add_to_log__struct.h
+[43.910s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/add_to_log__type_support.h
+[43.923s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_loaded_program__functions.h
+[43.938s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_loaded_program__struct.h
+[43.951s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_loaded_program__type_support.h
+[43.964s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_program_state__functions.h
+[43.976s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_program_state__struct.h
+[43.989s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_program_state__type_support.h
+[44.001s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_robot_mode__functions.h
+[44.013s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_robot_mode__struct.h
+[44.026s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_robot_mode__type_support.h
+[44.039s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_safety_mode__functions.h
+[44.052s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_safety_mode__struct.h
+[44.064s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_safety_mode__type_support.h
+[44.083s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_running__functions.h
+[44.096s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_running__struct.h
+[44.108s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_running__type_support.h
+[44.122s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_saved__functions.h
+[44.136s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_saved__struct.h
+[44.149s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_saved__type_support.h
+[44.161s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/load__functions.h
+[44.173s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/load__struct.h
+[44.186s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/load__type_support.h
+[44.198s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/popup__functions.h
+[44.211s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/popup__struct.h
+[44.223s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/popup__type_support.h
+[44.237s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/raw_request__functions.h
+[44.249s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/raw_request__struct.h
+[44.262s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/raw_request__type_support.h
+[44.274s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/get_loaded_program.h
+[44.286s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/get_program_state.h
+[44.298s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/get_robot_mode.h
+[44.311s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/get_safety_mode.h
+[44.325s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/is_program_running.h
+[44.339s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/is_program_saved.h
+[44.353s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/load.h
+[44.365s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/popup.h
+[44.377s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/raw_request.h
+[44.390s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/library_path.sh
+[44.402s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/library_path.dsv
+[44.415s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/detail/set_mode__rosidl_typesupport_introspection_c.h
+[44.427s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/program_state__rosidl_typesupport_introspection_c.h
+[44.440s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/robot_mode__rosidl_typesupport_introspection_c.h
+[44.453s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/safety_mode__rosidl_typesupport_introspection_c.h
+[44.466s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[44.478s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/add_to_log__rosidl_typesupport_introspection_c.h
+[44.490s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_loaded_program__rosidl_typesupport_introspection_c.h
+[44.502s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_program_state__rosidl_typesupport_introspection_c.h
+[44.515s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_robot_mode__rosidl_typesupport_introspection_c.h
+[44.527s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_safety_mode__rosidl_typesupport_introspection_c.h
+[44.540s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_running__rosidl_typesupport_introspection_c.h
+[44.553s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_saved__rosidl_typesupport_introspection_c.h
+[44.565s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/load__rosidl_typesupport_introspection_c.h
+[44.578s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/popup__rosidl_typesupport_introspection_c.h
+[44.590s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/raw_request__rosidl_typesupport_introspection_c.h
+[44.603s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/detail/set_mode__rosidl_typesupport_fastrtps_c.h
+[44.616s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/program_state__rosidl_typesupport_fastrtps_c.h
+[44.628s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/robot_mode__rosidl_typesupport_fastrtps_c.h
+[44.642s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/safety_mode__rosidl_typesupport_fastrtps_c.h
+[44.655s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[44.667s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/add_to_log__rosidl_typesupport_fastrtps_c.h
+[44.679s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_loaded_program__rosidl_typesupport_fastrtps_c.h
+[44.692s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_program_state__rosidl_typesupport_fastrtps_c.h
+[44.704s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_robot_mode__rosidl_typesupport_fastrtps_c.h
+[44.717s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_safety_mode__rosidl_typesupport_fastrtps_c.h
+[44.729s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_running__rosidl_typesupport_fastrtps_c.h
+[44.744s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_saved__rosidl_typesupport_fastrtps_c.h
+[44.756s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/load__rosidl_typesupport_fastrtps_c.h
+[44.769s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/popup__rosidl_typesupport_fastrtps_c.h
+[44.783s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/raw_request__rosidl_typesupport_fastrtps_c.h
+[44.796s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/detail/set_mode__builder.hpp
+[44.808s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/detail/set_mode__struct.hpp
+[44.820s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/detail/set_mode__traits.hpp
+[44.833s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/detail/set_mode__type_support.hpp
+[44.847s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/set_mode.hpp
+[44.859s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/program_state__builder.hpp
+[44.872s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/program_state__struct.hpp
+[44.884s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/program_state__traits.hpp
+[44.896s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/program_state__type_support.hpp
+[44.909s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/robot_mode__builder.hpp
+[44.921s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/robot_mode__struct.hpp
+[44.934s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/robot_mode__traits.hpp
+[44.948s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/robot_mode__type_support.hpp
+[44.962s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/safety_mode__builder.hpp
+[44.976s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/safety_mode__struct.hpp
+[44.989s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/safety_mode__traits.hpp
+[45.003s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/safety_mode__type_support.hpp
+[45.016s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/program_state.hpp
+[45.029s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/robot_mode.hpp
+[45.043s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[45.057s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/safety_mode.hpp
+[45.071s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/add_to_log.hpp
+[45.084s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/add_to_log__builder.hpp
+[45.097s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/add_to_log__struct.hpp
+[45.111s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/add_to_log__traits.hpp
+[45.125s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/add_to_log__type_support.hpp
+[45.141s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_loaded_program__builder.hpp
+[45.154s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_loaded_program__struct.hpp
+[45.168s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_loaded_program__traits.hpp
+[45.182s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_loaded_program__type_support.hpp
+[45.195s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_program_state__builder.hpp
+[45.209s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_program_state__struct.hpp
+[45.223s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_program_state__traits.hpp
+[45.238s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_program_state__type_support.hpp
+[45.252s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_robot_mode__builder.hpp
+[45.265s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_robot_mode__struct.hpp
+[45.277s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_robot_mode__traits.hpp
+[45.290s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_robot_mode__type_support.hpp
+[45.302s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_safety_mode__builder.hpp
+[45.315s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_safety_mode__struct.hpp
+[45.327s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_safety_mode__traits.hpp
+[45.341s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_safety_mode__type_support.hpp
+[45.354s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_running__builder.hpp
+[45.367s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_running__struct.hpp
+[45.379s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_running__traits.hpp
+[45.391s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_running__type_support.hpp
+[45.404s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_saved__builder.hpp
+[45.416s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_saved__struct.hpp
+[45.429s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_saved__traits.hpp
+[45.442s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_saved__type_support.hpp
+[45.455s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/load__builder.hpp
+[45.467s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/load__struct.hpp
+[45.480s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/load__traits.hpp
+[45.492s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/load__type_support.hpp
+[45.504s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/popup__builder.hpp
+[45.517s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/popup__struct.hpp
+[45.529s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/popup__traits.hpp
+[45.542s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/popup__type_support.hpp
+[45.556s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/raw_request__builder.hpp
+[45.570s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/raw_request__struct.hpp
+[45.582s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/raw_request__traits.hpp
+[45.596s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/raw_request__type_support.hpp
+[45.609s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/get_loaded_program.hpp
+[45.623s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/get_program_state.hpp
+[45.637s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/get_robot_mode.hpp
+[45.651s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/get_safety_mode.hpp
+[45.664s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/is_program_running.hpp
+[45.677s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/is_program_saved.hpp
+[45.691s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/load.hpp
+[45.703s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/popup.hpp
+[45.717s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/raw_request.hpp
+[45.731s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/detail/set_mode__rosidl_typesupport_introspection_cpp.hpp
+[45.745s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/program_state__rosidl_typesupport_introspection_cpp.hpp
+[45.759s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/robot_mode__rosidl_typesupport_introspection_cpp.hpp
+[45.772s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/safety_mode__rosidl_typesupport_introspection_cpp.hpp
+[45.785s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/add_to_log__rosidl_typesupport_introspection_cpp.hpp
+[45.798s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_loaded_program__rosidl_typesupport_introspection_cpp.hpp
+[45.812s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_program_state__rosidl_typesupport_introspection_cpp.hpp
+[45.825s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_robot_mode__rosidl_typesupport_introspection_cpp.hpp
+[45.842s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_safety_mode__rosidl_typesupport_introspection_cpp.hpp
+[45.856s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_running__rosidl_typesupport_introspection_cpp.hpp
+[45.869s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_saved__rosidl_typesupport_introspection_cpp.hpp
+[45.882s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/load__rosidl_typesupport_introspection_cpp.hpp
+[45.896s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/popup__rosidl_typesupport_introspection_cpp.hpp
+[45.909s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/raw_request__rosidl_typesupport_introspection_cpp.hpp
+[45.925s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/action/detail/set_mode__rosidl_typesupport_fastrtps_cpp.hpp
+[45.938s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/program_state__rosidl_typesupport_fastrtps_cpp.hpp
+[45.952s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/robot_mode__rosidl_typesupport_fastrtps_cpp.hpp
+[45.965s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/detail/safety_mode__rosidl_typesupport_fastrtps_cpp.hpp
+[45.978s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[45.992s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/add_to_log__rosidl_typesupport_fastrtps_cpp.hpp
+[46.005s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_loaded_program__rosidl_typesupport_fastrtps_cpp.hpp
+[46.019s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_program_state__rosidl_typesupport_fastrtps_cpp.hpp
+[46.032s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_robot_mode__rosidl_typesupport_fastrtps_cpp.hpp
+[46.045s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/get_safety_mode__rosidl_typesupport_fastrtps_cpp.hpp
+[46.058s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_running__rosidl_typesupport_fastrtps_cpp.hpp
+[46.071s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/is_program_saved__rosidl_typesupport_fastrtps_cpp.hpp
+[46.083s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/load__rosidl_typesupport_fastrtps_cpp.hpp
+[46.096s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/popup__rosidl_typesupport_fastrtps_cpp.hpp
+[46.108s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/include/ur_dashboard_msgs/ur_dashboard_msgs/srv/detail/raw_request__rosidl_typesupport_fastrtps_cpp.hpp
+[46.121s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/pythonpath.sh
+[46.133s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/pythonpath.dsv
+[46.147s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs-2.8.0-py3.10.egg-info/PKG-INFO
+[46.160s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs-2.8.0-py3.10.egg-info/SOURCES.txt
+[46.172s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs-2.8.0-py3.10.egg-info/dependency_links.txt
+[46.185s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs-2.8.0-py3.10.egg-info/top_level.txt
+[46.198s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/__init__.py
+[46.210s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/_ur_dashboard_msgs_s.ep.rosidl_typesupport_c.c
+[46.222s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/_ur_dashboard_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[46.235s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/_ur_dashboard_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[46.248s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/action/__init__.py
+[46.261s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/action/_set_mode.py
+[46.273s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/action/_set_mode_s.c
+[46.286s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/libur_dashboard_msgs__rosidl_generator_py.so
+[46.298s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg/__init__.py
+[46.311s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg/_program_state.py
+[46.325s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg/_program_state_s.c
+[46.339s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg/_robot_mode.py
+[46.353s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg/_robot_mode_s.c
+[46.366s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg/_safety_mode.py
+[46.380s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg/_safety_mode_s.c
+[46.393s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/__init__.py
+[46.406s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_add_to_log.py
+[46.419s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_add_to_log_s.c
+[46.433s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_loaded_program.py
+[46.455s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_loaded_program_s.c
+[46.469s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_program_state.py
+[46.482s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_program_state_s.c
+[46.495s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_robot_mode.py
+[46.507s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_robot_mode_s.c
+[46.521s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_safety_mode.py
+[46.536s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_safety_mode_s.c
+[46.550s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_is_program_running.py
+[46.564s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_is_program_running_s.c
+[46.577s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_is_program_saved.py
+[46.591s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_is_program_saved_s.c
+[46.605s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_load.py
+[46.618s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_load_s.c
+[46.632s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_popup.py
+[46.646s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_popup_s.c
+[46.660s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_raw_request.py
+[46.674s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_raw_request_s.c
+[46.688s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[46.702s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[46.716s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[46.730s] -- Up-to-date symlink: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[46.730s] -- Up-to-date symlink: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[46.730s] -- Up-to-date symlink: /home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[46.730s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/ProgramState.idl
+[46.744s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/RobotMode.idl
+[46.757s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/SafetyMode.idl
+[46.771s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/AddToLog.idl
+[46.784s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetLoadedProgram.idl
+[46.797s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetProgramState.idl
+[46.810s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetRobotMode.idl
+[46.823s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetSafetyMode.idl
+[46.836s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramRunning.idl
+[46.849s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramSaved.idl
+[46.862s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Load.idl
+[46.875s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Popup.idl
+[46.887s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/RawRequest.idl
+[46.899s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/action/SetMode.idl
+[46.912s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/ProgramState.msg
+[46.924s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/RobotMode.msg
+[46.940s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/SafetyMode.msg
+[46.953s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/AddToLog.srv
+[46.966s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/AddToLog_Request.msg
+[46.978s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/AddToLog_Response.msg
+[46.991s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetLoadedProgram.srv
+[47.003s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetLoadedProgram_Request.msg
+[47.016s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetLoadedProgram_Response.msg
+[47.029s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetProgramState.srv
+[47.045s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetProgramState_Request.msg
+[47.058s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetProgramState_Response.msg
+[47.071s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetRobotMode.srv
+[47.084s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetRobotMode_Request.msg
+[47.098s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetRobotMode_Response.msg
+[47.111s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetSafetyMode.srv
+[47.124s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetSafetyMode_Request.msg
+[47.138s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetSafetyMode_Response.msg
+[47.154s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramRunning.srv
+[47.168s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramRunning_Request.msg
+[47.182s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramRunning_Response.msg
+[47.195s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramSaved.srv
+[47.210s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramSaved_Request.msg
+[47.223s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramSaved_Response.msg
+[47.237s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Load.srv
+[47.252s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Load_Request.msg
+[47.266s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Load_Response.msg
+[47.279s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Popup.srv
+[47.292s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Popup_Request.msg
+[47.306s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Popup_Response.msg
+[47.321s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/RawRequest.srv
+[47.343s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/RawRequest_Request.msg
+[47.360s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/RawRequest_Response.msg
+[47.374s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/action/SetMode.action
+[47.387s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ament_index/resource_index/package_run_dependencies/ur_dashboard_msgs
+[47.401s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ament_index/resource_index/parent_prefix_path/ur_dashboard_msgs
+[47.414s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/ament_prefix_path.sh
+[47.427s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/ament_prefix_path.dsv
+[47.444s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/path.sh
+[47.458s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/path.dsv
+[47.472s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/local_setup.bash
+[47.487s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/local_setup.sh
+[47.501s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/local_setup.zsh
+[47.514s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/local_setup.dsv
+[47.528s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/package.dsv
+[47.541s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ament_index/resource_index/packages/ur_dashboard_msgs
+[47.555s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/rosidl_cmake-extras.cmake
+[47.569s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[47.583s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[47.597s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[47.610s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[47.624s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[47.638s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[47.656s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgsConfig.cmake
+[47.669s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgsConfig-version.cmake
+[47.683s] -- Symlinking: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/package.xml
+[47.697s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_generator_c.so
+[47.697s] -- Set runtime path of "/home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_generator_c.so" to ""
+[47.697s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_introspection_c.so
+[47.698s] -- Set runtime path of "/home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_introspection_c.so" to ""
+[47.698s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_fastrtps_c.so
+[47.698s] -- Set runtime path of "/home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[47.698s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_c.so
+[47.698s] -- Set runtime path of "/home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_c.so" to ""
+[47.698s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_introspection_cpp.so
+[47.698s] -- Set runtime path of "/home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[47.698s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.so
+[47.699s] -- Set runtime path of "/home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[47.699s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_cpp.so
+[47.699s] -- Set runtime path of "/home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_cpp.so" to ""
+[47.824s] Listing '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/__init__.py'...
+[47.824s] Listing '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/action'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/action/__init__.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/action/_set_mode.py'...
+[47.824s] Listing '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg/__init__.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg/_program_state.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg/_robot_mode.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/msg/_safety_mode.py'...
+[47.824s] Listing '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/__init__.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_add_to_log.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_loaded_program.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_program_state.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_robot_mode.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_get_safety_mode.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_is_program_running.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_is_program_saved.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_load.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_popup.py'...
+[47.824s] Compiling '/home/jenit/ur_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages/ur_dashboard_msgs/srv/_raw_request.py'...
+[47.828s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_generator_py.so
+[47.828s] -- Set runtime path of "/home/jenit/ur_ws/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_generator_py.so" to ""
+[47.828s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/export_ur_dashboard_msgs__rosidl_generator_cExport.cmake
+[47.828s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/export_ur_dashboard_msgs__rosidl_generator_cExport-noconfig.cmake
+[47.828s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_introspection_cExport.cmake
+[47.828s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[47.828s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/export_ur_dashboard_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[47.828s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/export_ur_dashboard_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[47.828s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_cExport.cmake
+[47.829s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[47.829s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/export_ur_dashboard_msgs__rosidl_generator_cppExport.cmake
+[47.829s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[47.829s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[47.829s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/export_ur_dashboard_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[47.829s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/export_ur_dashboard_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[47.829s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_cppExport.cmake
+[47.829s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[47.829s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/export_ur_dashboard_msgs__rosidl_generator_pyExport.cmake
+[47.829s] -- Installing: /home/jenit/ur_ws/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/export_ur_dashboard_msgs__rosidl_generator_pyExport-noconfig.cmake
+[47.831s] Invoked command in '/home/jenit/ur_ws/build/ur_dashboard_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jenit/ros2_humble/install/rqt_bag_plugins:/home/jenit/ros2_humble/install/rqt_bag:/home/jenit/ros2_humble/install/launch_testing_examples:/home/jenit/ros2_humble/install/ros2bag:/home/jenit/ros2_humble/install/tracetools_test:/home/jenit/ros2_humble/install/tracetools_launch:/home/jenit/ros2_humble/install/topic_monitor:/home/jenit/ros2_humble/install/tf2_tools:/home/jenit/ros2_humble/install/examples_tf2_py:/home/jenit/ros2_humble/install/tf2_ros_py:/home/jenit/ros2_humble/install/sros2:/home/jenit/ros2_humble/install/rqt_topic:/home/jenit/ros2_humble/install/rqt_srv:/home/jenit/ros2_humble/install/rqt_shell:/home/jenit/ros2_humble/install/rqt_service_caller:/home/jenit/ros2_humble/install/rqt_reconfigure:/home/jenit/ros2_humble/install/rqt_py_console:/home/jenit/ros2_humble/install/rqt_publisher:/home/jenit/ros2_humble/install/rqt_plot:/home/jenit/ros2_humble/install/rqt_action:/home/jenit/ros2_humble/install/rqt_msg:/home/jenit/ros2_humble/install/rqt_console:/home/jenit/ros2_humble/install/rqt:/home/jenit/ros2_humble/install/rqt_graph:/home/jenit/ros2_humble/install/rqt_gui_py:/home/jenit/ros2_humble/install/rqt_gui:/home/jenit/ros2_humble/install/ros2trace:/home/jenit/ros2_humble/install/ros2topic:/home/jenit/ros2_humble/install/ros2test:/home/jenit/ros2_humble/install/ros2component:/home/jenit/ros2_humble/install/ros2param:/home/jenit/ros2_humble/install/ros2lifecycle:/home/jenit/ros2_humble/install/ros2service:/home/jenit/ros2_humble/install/ros2run:/home/jenit/ros2_humble/install/ros2launch:/home/jenit/ros2_humble/install/ros2pkg:/home/jenit/ros2_humble/install/ros2node:/home/jenit/ros2_humble/install/ros2multicast:/home/jenit/ros2_humble/install/ros2interface:/home/jenit/ros2_humble/install/ros2doctor:/home/jenit/ros2_humble/install/ros2action:/home/jenit/ros2_humble/install/ros2cli:/home/jenit/ros2_humble/install/quality_of_service_demo_py:/home/jenit/ros2_humble/install/lifecycle_py:/home/jenit/ros2_humble/install/launch_testing_ros:/home/jenit/ros2_humble/install/launch_ros:/home/jenit/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/jenit/ros2_humble/install/examples_rclpy_minimal_service:/home/jenit/ros2_humble/install/examples_rclpy_minimal_publisher:/home/jenit/ros2_humble/install/examples_rclpy_minimal_client:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_server:/home/jenit/ros2_humble/install/examples_rclpy_minimal_action_client:/home/jenit/ros2_humble/install/examples_rclpy_guard_conditions:/home/jenit/ros2_humble/install/examples_rclpy_executors:/home/jenit/ros2_humble/install/demo_nodes_py:/home/jenit/ros2_humble/install/camera_info_manager_py:/home/jenit/ros2_humble/install/action_tutorials_py:/home/jenit/ros2_humble/install/ament_uncrustify:/home/jenit/ros2_humble/install/tracetools_trace:/home/jenit/ros2_humble/install/tracetools_read:/home/jenit/ros2_humble/install/test_tracetools_launch:/home/jenit/ros2_humble/install/test_launch_ros:/home/jenit/ros2_humble/install/sensor_msgs_py:/home/jenit/ros2_humble/install/rpyutils:/home/jenit/ros2_humble/install/rosidl_runtime_py:/home/jenit/ros2_humble/install/rosidl_cli:/home/jenit/ros2_humble/install/launch_pytest:/home/jenit/ros2_humble/install/launch_testing:/home/jenit/ros2_humble/install/launch_yaml:/home/jenit/ros2_humble/install/launch_xml:/home/jenit/ros2_humble/install/launch:/home/jenit/ros2_humble/install/osrf_pycommon:/home/jenit/ros2_humble/install/domain_coordinator:/home/jenit/ros2_humble/install/ament_xmllint:/home/jenit/ros2_humble/install/ament_pyflakes:/home/jenit/ros2_humble/install/ament_pycodestyle:/home/jenit/ros2_humble/install/ament_pep257:/home/jenit/ros2_humble/install/ament_pclint:/home/jenit/ros2_humble/install/ament_package:/home/jenit/ros2_humble/install/ament_mypy:/home/jenit/ros2_humble/install/ament_lint_cmake:/home/jenit/ros2_humble/install/ament_flake8:/home/jenit/ros2_humble/install/ament_copyright:/home/jenit/ros2_humble/install/ament_lint:/home/jenit/ros2_humble/install/ament_index_python:/home/jenit/ros2_humble/install/ament_cpplint:/home/jenit/ros2_humble/install/ament_cppcheck:/home/jenit/ros2_humble/install/ament_clang_tidy:/home/jenit/ros2_humble/install/ament_clang_format /usr/bin/cmake --install /home/jenit/ur_ws/build/ur_dashboard_msgs
