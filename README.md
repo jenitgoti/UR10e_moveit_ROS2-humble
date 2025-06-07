@@ -38,7 +38,7 @@ source install/setup.bash
 ```
 ## Control the Robot Using Python
 
-- Create your Python node to publish to /joint_trajectory_controller/joint_trajectory, /scaled_joint_trajectory_controller/joint_trajectory or use MoveIt 2.
+- Create your Python node to publish to (/joint_trajectory_controller/joint_trajectory), (/scaled_joint_trajectory_controller/joint_trajectory) or use MoveIt 2.
 - Save this as ur10e_commander.py, put it in a Python package, and make sure it's executable.
   
 ## Create and Use a Python ROS 2 Package
