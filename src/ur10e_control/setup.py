@@ -21,7 +21,13 @@ setup(
     entry_points={
         'console_scripts': [
             'ur10e_commander = ur10e_control.ur10e_commander:main',
+            'ur10e_movit2 = ur10e_control.ur10e_movit2:main',
+            'plane = ur10e_control.plane:main',
+            'cylinder = ur10e_control.cylinder:main',
+            'part_sphere = ur10e_control.part_sphere:main',
+            'hemisphere = ur10e_control.hemisphere:main',
+            'marker_publisher = ur10e_control.marker_publisher:main',
+
         ],
     },
 )
-
